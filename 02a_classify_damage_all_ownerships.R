@@ -36,7 +36,7 @@ count_or_zero <- function(counts, category) {
 
 # Working directory is configured in the header.
 # Working directory is configured in the header.
-# Install these packages if you haven't
+# Install these packages if haven't
 
 
 df <- read_excel(file.path(project_root, "data", "Final_data_2000_2024.xlsx"), sheet = "final2")
